@@ -4,7 +4,7 @@ description: 您的新Adobe客戶支援體驗即將推出- Campaign部署聯絡�
 seo-title: 您的新Adobe客戶支援體驗即將推出- Campaign部署聯絡人
 seo-description: 您的新Adobe客戶支援體驗即將推出- Campaign部署聯絡人
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
 
 ---
 
@@ -27,7 +27,9 @@ source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 * 方便地與 [!DNL Adobe Customer Support]
 * 授予支援使用者對入口網站的存取權
 
-請在2019年11月4日之前填妥並提交 [[!DNL系統管理員確認表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) ，確認您接受此角色（或提供替代聯絡點），擔任您組織的Adobe Experience Manager/Adobe Campaign產品系統管理員。 填妥此表格後，將可確保將適當的認證指派給貴組織指定的系統管理員，並讓我們提供更多詳細資訊，以協助貴組織為即將進行的變更做好準備。
+>[!NOTE]
+>請確認您在2019年11月4日之前完成並提交 **[!DNL系統管理員確認表][，接受此角色（或提供替代聯絡點）作為您組織的Adobe Campaign產品系統管理員](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)**。
+>填妥此表格後，將可確保將適當的認證指派給貴組織指定的系統管理員，並讓我們提供更多詳細資訊，以協助貴組織為即將進行的變更做好準備。
 
 收到[!DNL系統管理員確認表 [單後，將會傳送電子郵件確認](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)。
 
