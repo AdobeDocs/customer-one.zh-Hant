@@ -5,7 +5,7 @@ sub-product: 客戶一
 audience: 最終用戶
 user-guide-title: '[!DNL企業版客戶一]幫助'
 translation-type: tm+mt
-source-git-commit: f0d7a9c715b587d491dc75277f9ed0673835621d
+source-git-commit: cb092898fe8e150511fc77d4c66c1c836180af09
 
 ---
 
