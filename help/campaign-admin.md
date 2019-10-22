@@ -1,15 +1,15 @@
 ---
-title: 促銷活動——即將推出新的支援體驗
+title: '[!DNL促銷活動] —— 即將推出新的支援體驗'
 seo-title: Adobe Campaign —— 即將推出新的企業支援體驗
 description: Adobe Campaign —— 即將推出新的企業支援體驗
 seo-description: Adobe Campaign —— 即將推出新的企業支援體驗
 translation-type: tm+mt
-source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
+source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# 促銷活動——即將推出新的支援體驗
+# [!DNL Campaign] -即將推出新的支援體驗
 
 **2019年10月21日**
 
