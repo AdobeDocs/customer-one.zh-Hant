@@ -1,40 +1,40 @@
 ---
 title: '[!DNL促銷活動] —— 即將推出新的支援體驗'
-seo-title: Adobe Campaign —— 即將推出新的企業支援體驗
-description: Adobe Campaign —— 即將推出新的企業支援體驗
-seo-description: Adobe Campaign —— 即將推出新的企業支援體驗
+seo-title: Adobe Campaign - 敬請期待全新支援體驗
+description: Adobe Campaign - 敬請期待全新支援體驗
+seo-description: Adobe Campaign - 敬請期待全新支援體驗
 translation-type: tm+mt
-source-git-commit: b73689e020d4a5fa2eec82e2e89fbfdcca312a81
+source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
 
 
-# [!DNL Campaign] -即將推出新的支援體驗
+# [!DNL Campaign] - 敬請期待全新支援體驗
 
-**2019年10月21日**
+**2019 年 10 月 21 日**
 
-我們正在為Adobe Campaign客戶設計一些主要的增強支援體驗。 我們計 *划在2020年4月*[!DNL Adobe Customer Support] /5月推出這些變更，讓您的組織可以透過共同的登入入口網站，存取並更清楚地瞭解您的服務歷程。
+我們正全力打造幾項重要增強功能，為 Adobe Campaign 客戶提供更優質的支援體驗。這些變更&#x200B;*預計於 2020 年 4 月或 5 月推出*，屆時貴組織將能存取 [!DNL Adobe Customer Support]，並透過一般入口網站更清楚地掌握過往的服務記錄。
 
-我們將繼續向您的組織提供更多資訊，讓我們更接近推出。
+隨著逐漸接近發佈日期，我們會持續向貴組織提供更多相關資訊。
 
-要開始，我們需要您的幫助來確認誰將代表您的組織擔任系統管理員。
+在這一切開始之前，請協助確認誰將代表貴組織擔任系統管理員。
 
-## 動作：確認您的系統管理員（系統管理員）
+## 敬請配合: 確認系統管理員人選 (System Admin)
 
-我們的記錄顯示您是您組織 **內指定的系統管理員**，負責管理和提交這些Adobe產品的支援要求。
+我們的記錄顯示，您是&#x200B;**貴組織指定的系統管理員**，負責管理及提交 Adobe 產品的支援要求。
 
-身為系統管理員，您可以存取 [!DNL Adobe Admin Console Support Portal] 下列項目：
+系統管理員可以存取 [!DNL Adobe Admin Console Support Portal]，在平台上執行以下動作:
 
-* 探索改良的案例管理功能
-* 方便地與 [!DNL Adobe Customer Support]
-* 授予支援使用者對入口網站的存取權
+* 探索功能更強大的案例管理功能
+* 輕鬆開始與 [!DNL Adobe Customer Support] 對話交談
+* 授予支援使用者入口網站的存取權限
 
 >[!NOTE]
->請確認您在2019年11月4日之前完成並提交 **[!DNL系統管理員確認表][，接受此角色（或提供替代聯絡點）作為您組織的Adobe Campaign產品系統管理員](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**。
->填妥此表格後，將會確保將適當的認證指派給貴組織指定的系統管理員。
+>Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Campaign products by **completing and submitting the[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)by November 4, 2019**.
+>填妥此表格可確保我們將對應的憑證指派給貴組織指定的系統管理員。
 
-提交後 [!DNL System Admin Confirmation Form]，您目前不需要執行其他動作。  我們將於2020年初聯絡系統管理員，以瞭解後續步驟。
+收到電子郵件時，將會傳送電子郵件確認 [!DNL System Admin Confirmation Form]。
 
-如需有關此電子郵件的疑問，請與我們聯絡，來信請寄至customercare@adobe.com。
+若對本電子郵件內容有任何疑問，請連絡我們: customercare@adobe.com。
 
-向您致以親切的問候，感謝您的協助。
+在此致以誠摯問候，也感謝您撥冗配合。
