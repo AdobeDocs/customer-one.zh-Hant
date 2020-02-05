@@ -1,21 +1,21 @@
 ---
-title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
-seo-description: 全新 Adobe Customer Support 體驗
-seo-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience cloud企業版客戶一
+description: 全新Adobe客戶支援體驗
+seo-description: 全新Adobe客戶支援體驗
+seo-title: Adobe Experience cloud企業版客戶一
 translation-type: tm+mt
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 ---
 
 
-# 全新 Adobe Customer Support 體驗
+# 全新Adobe客戶支援體驗
 
 我們關心客戶，並致力於讓客戶在需要協助時更輕鬆地從Adobe客戶支援取得協助——從Adobe Experience manager和Campaign產品開始。 我們的願景是透過移至現代化入門網站Adobe管理控制台支援入口網站來簡化支援體驗。 我們計畫在2020年5月推出這些變更。  線上後，貴組織將可存取Adobe客戶支援；透過通用入口網站更能洞察您的服務記錄；並透過單一入口網站透過電話、網路和聊天來要求協助。
 
-隨著逐漸接近發佈日期，我們會持續向貴組織提供更多相關資訊。
+我們將繼續向您的組織提供更多資訊，讓我們更接近推出。
 
-## 詳細資訊
+## 更多資訊
 
 在2月和3月，Adobe將在此入口網站中設定新的支援系統管理員和支援使用者。  如果我們的記錄顯示您目前在Adobe的Admin console中擔任支援系統管理員——或——您的姓名在購買合約中列為Adobe在您組織內部部署Adobe Campaign和／或Adobe Experience Manager的客戶聯絡人，您將被設定為貴組織的支援系統管理員。
 
@@ -46,4 +46,4 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 * Adobe將宣佈推出新系統
 * 客戶開始使用新系統
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+如需有關此電子郵件的疑問，請與我們聯 [絡](mailto:customercare@adobe.com): customercare@adobe.com。
