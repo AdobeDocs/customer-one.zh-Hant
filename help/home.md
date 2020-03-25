@@ -1,49 +1,50 @@
 ---
-title: Adobe Experience cloud企業版客戶一
-description: 全新Adobe客戶支援體驗
-seo-description: 全新Adobe客戶支援體驗
-seo-title: Adobe Experience cloud企業版客戶一
-translation-type: tm+mt
+title: Adobe Experience Cloud Customer One for Enterprise
+description: 全新 Adobe 客戶支援體驗
+seo-description: 全新 Adobe 客戶支援體驗
+seo-title: Adobe Experience Cloud Customer One for Enterprise
+translation-type: ht
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 ---
 
 
-# 全新Adobe客戶支援體驗
+# 全新 Adobe 客戶支援體驗
 
-我們關心客戶，並致力於讓客戶在需要協助時更輕鬆地從Adobe客戶支援取得協助——從Adobe Experience manager和Campaign產品開始。 我們的願景是透過移至現代化入門網站Adobe管理控制台支援入口網站來簡化支援體驗。 我們計畫在2020年5月推出這些變更。  線上後，貴組織將可存取Adobe客戶支援；透過通用入口網站更能洞察您的服務記錄；並透過單一入口網站透過電話、網路和聊天來要求協助。
+我們關心客戶，並致力於讓客戶在需要協助時，能夠更輕鬆地向 Adobe 客戶支援取得協助；我們會先從 Adobe Experience Manager 和 Campaign 產品著手。我們的願景，是透過移至新版入口網站 Adobe Admin Console 支援入口網站，來簡化支援體驗。我們預計在 2020 年 5 月推出這些變更。上線後，您的組織便可存取 Adobe 客戶支援、透過通用入口網站進一步掌握服務記錄，並透過單一入口網站，以電話、網路和聊天等方式請求協助。
 
-我們將繼續向您的組織提供更多資訊，讓我們更接近推出。
+隨著時間更接近推出日期，我們會繼續向您的組織提供更多資訊。
 
 ## 更多資訊
 
-在2月和3月，Adobe將在此入口網站中設定新的支援系統管理員和支援使用者。  如果我們的記錄顯示您目前在Adobe的Admin console中擔任支援系統管理員——或——您的姓名在購買合約中列為Adobe在您組織內部部署Adobe Campaign和／或Adobe Experience Manager的客戶聯絡人，您將被設定為貴組織的支援系統管理員。
+在 2 月和 3 月期間，Adobe 會在此入口網站中設定新的支援系統管理員和支援使用者。如果我們的記錄顯示您目前擔任 Adobe Admin Console 的支援系統管理員，或者在購買合約中，您的姓名列為在貴組織內部署 Adobe Campaign 和/或 Adobe Experience Manager 的 Adobe 客戶聯絡人，我們便會將您設定為貴組織的支援系統管理員。
 
-「支援系統管理員」將在「管理控制台」中充當超級使用者，每當有新的支援使用者建立時，都會看到系統產生的電子郵件。  此外，他們將能夠：
+支援系統管理員會擔任 Admin Console 的進階使用者，每當建立新支援使用者時，都會收到系統產生的電子郵件。此外，他們還能夠：
 
-* 在入口網站中建立／移除支援使用者並管理存取角色
-* 運用案例管理工具，透過Adobe客戶支援更輕鬆地處理支援案例
-* 與Adobe客戶支援輕鬆進行聊天對話
+* 在入口網站中建立/移除支援使用者及管理存取角色
+* 透過 Adobe 客戶支援，並運用案例管理工具，更輕鬆地處理支援案例
+* 方便地與 Adobe 客戶支援開始對話
 
-## 未來幾個月的預期
+## 未來幾個月的預定事項
 
-### 2月——用戶設定
+### 2 月 - 設定使用者
 
-* Adobe負責設定已知的系統管理員；新系統中的合同聯繫人和已知支援用戶
-* 系統產生的電子郵件已傳送——使用者僅針對使用者建立／驗證設定並上線系統
+* Adobe 會在新系統中設定已知系統管理員、合約聯絡人和已知支援使用者
+* 傳送系統產生的電子郵件 - 設定使用者和僅針對建立/驗證使用者將系統上線
 
-### 3月——使用者驗證
+### 3 月 - 使用者驗證
 
-* Adobe將聯絡系統管理員／合約聯絡人以及後續步驟系統管理員／合約聯絡人，以驗證現有的支援使用者，並在新系統中建立任何遺失的支援使用者
+* Adobe 聯絡系統管理員/合約聯絡人進行後續步驟
+系統管理員/合約聯絡人驗證現有支援使用者，並在新系統中建立遺漏的支援使用者
 
-### 4月——啟用
+### 4 月 - 培訓
 
-* Adobe將為所有支援系統使用者提供學習教材
-* 系統管理員／合約聯絡人，以完成支援使用者的設定和角色
+* Adobe 為所有支援系統使用者提供學習教材
+* 系統管理員/合約聯絡人完成設定支援使用者和角色
 
-### 五月——啟動！
+### 5 月 - 推出！
 
-* Adobe將宣佈推出新系統
+* Adobe 宣布推出新系統
 * 客戶開始使用新系統
 
-如需有關此電子郵件的疑問，請與我們聯 [絡](mailto:customercare@adobe.com): customercare@adobe.com。
+如有這封電子郵件的相關疑問，請聯絡我們：[customercare@adobe.com](mailto:customercare@adobe.com)。
