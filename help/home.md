@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
-seo-description: 全新 Adobe Customer Support 體驗
+description: 全新 Adobe 客戶支援體驗
+seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
@@ -9,13 +9,13 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 ---
 
 
-# 全新 Adobe Customer Support 體驗
+# 全新 Adobe 客戶支援體驗
 
 ## 我們很高興在2020年4月/5月宣佈推出Adobe Admin Console支援入口網站！
 
 如先前所分享的，我們致力於改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是使用Adobe Admin Console，將支援體驗移至單一入口點，以簡化支援體驗。 線上後，貴組織將可輕鬆存取Adobe客戶支援；透過產品間的共同系統，更能洞悉您的服務歷史；透過這個單一入口網站，透過電話、網路和聊天來要求協助。
 
-## 詳細資訊
+## 更多資訊
 
 * 您將於4月27日或5月11日加入新體驗
 * 客戶將會收到Adobe寄來的2封電子郵件，並附上更多指示（上線前10天和上線當天），提醒您何時可以開始提交票證
@@ -47,4 +47,4 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 在5月11日之前，您仍可使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 個案管理系統。  在5月11日之後，您將被重新導向至 [Admin Console](https://adminconsole.adobe.com/) ，因為這些系統將於當時終止服務。
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+如有這封電子郵件的相關疑問，請聯絡我們：[customercare@adobe.com](mailto:customercare@adobe.com)。
