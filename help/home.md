@@ -1,50 +1,50 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe 客戶支援體驗
-seo-description: 全新 Adobe 客戶支援體驗
+description: 全新 Adobe Customer Support 體驗
+seo-description: 全新 Adobe Customer Support 體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: ht
-source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
+translation-type: tm+mt
+source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ---
 
 
-# 全新 Adobe 客戶支援體驗
+# 全新 Adobe Customer Support 體驗
 
-我們關心客戶，並致力於讓客戶在需要協助時，能夠更輕鬆地向 Adobe 客戶支援取得協助；我們會先從 Adobe Experience Manager 和 Campaign 產品著手。我們的願景，是透過移至新版入口網站 Adobe Admin Console 支援入口網站，來簡化支援體驗。我們預計在 2020 年 5 月推出這些變更。上線後，您的組織便可存取 Adobe 客戶支援、透過通用入口網站進一步掌握服務記錄，並透過單一入口網站，以電話、網路和聊天等方式請求協助。
+## 我們很高興在2020年4月/5月宣佈推出Adobe Admin Console支援入口網站！
 
-隨著時間更接近推出日期，我們會繼續向您的組織提供更多資訊。
+如先前所分享的，我們致力於改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是使用Adobe Admin Console，將支援體驗移至單一入口點，以簡化支援體驗。 線上後，貴組織將可輕鬆存取Adobe客戶支援；透過產品間的共同系統，更能洞悉您的服務歷史；透過這個單一入口網站，透過電話、網路和聊天來要求協助。
 
-## 更多資訊
+## 詳細資訊
 
-在 2 月和 3 月期間，Adobe 會在此入口網站中設定新的支援系統管理員和支援使用者。如果我們的記錄顯示您目前擔任 Adobe Admin Console 的支援系統管理員，或者在購買合約中，您的姓名列為在貴組織內部署 Adobe Campaign 和/或 Adobe Experience Manager 的 Adobe 客戶聯絡人，我們便會將您設定為貴組織的支援系統管理員。
+* 您將於4月27日或5月11日加入新體驗
+* 客戶將會收到Adobe寄來的2封電子郵件，並附上更多指示（上線前10天和上線當天），提醒您何時可以開始提交票證
+* 在5月11日之後，舊版Adobe Experience Manager和Campaign客戶案例管理系統將終止服務，客戶將重新導向至本頁以取得其他指引
+* 上線時開啟的客戶案例將移轉至新系統，以利結案
 
-支援系統管理員會擔任 Admin Console 的進階使用者，每當建立新支援使用者時，都會收到系統產生的電子郵件。此外，他們還能夠：
+## 請求的客戶操作
 
-* 在入口網站中建立/移除支援使用者及管理存取角色
-* 透過 Adobe 客戶支援，並運用案例管理工具，更輕鬆地處理支援案例
-* 方便地與 Adobe 客戶支援開始對話
+1. 檢閱管理控制台啟用內容 [快速入門](https://helpx.adobe.com/enterprise/get-started.html) 及使 [用指南](https://helpx.adobe.com/enterprise/managing/user-guide.html)
+1. 登入 [Admin Console](https://adminconsole.adobe.com/) ，並驗證您擁有存取權
+1. 如果您是系統管理員，請檢閱並驗證組織內的支援使用者是否正確(這些指南頁面將協助您：管 [理用戶](https://helpx.adobe.com/enterprise/using/users.html)[和管理團隊帳戶](https://helpx.adobe.com/enterprise/using/accounts.html))
 
-## 未來幾個月的預定事項
+## 需要協助嗎？
 
-### 2 月 - 設定使用者
+上線後，如果您遇到問題且無法登入新工具，您有下列選項：
 
-* Adobe 會在新系統中設定已知系統管理員、合約聯絡人和已知支援使用者
-* 傳送系統產生的電子郵件 - 設定使用者和僅針對建立/驗證使用者將系統上線
+### 選項1:電子郵件
 
-### 3 月 - 使用者驗證
+請寄電子郵件至 [customercare@adobe.com](mailto:customercare@adobe.com) ，並包括：
 
-* Adobe 聯絡系統管理員/合約聯絡人進行後續步驟
-系統管理員/合約聯絡人驗證現有支援使用者，並在新系統中建立遺漏的支援使用者
+* 聯絡資訊：姓名、電子郵件地址、電話
+* 公司名稱
+* Adobe產品擁有
+* 問題優先順序
+* 問題的簡短說明
 
-### 4 月 - 培訓
+### 選項2:5月11日之前
 
-* Adobe 為所有支援系統使用者提供學習教材
-* 系統管理員/合約聯絡人完成設定支援使用者和角色
+在5月11日之前，您仍可使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 個案管理系統。  在5月11日之後，您將被重新導向至 [Admin Console](https://adminconsole.adobe.com/) ，因為這些系統將於當時終止服務。
 
-### 5 月 - 推出！
 
-* Adobe 宣布推出新系統
-* 客戶開始使用新系統
-
-如有這封電子郵件的相關疑問，請聯絡我們：[customercare@adobe.com](mailto:customercare@adobe.com)。
+For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
