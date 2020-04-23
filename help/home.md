@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 全新 Adobe 客戶支援體驗
 seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 ---
@@ -32,9 +32,9 @@ source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 新網站上線後，如果您遇到任何問題而無法登入新工具，可選擇使用下列支援選項：
 
-### 選項1:提交票證
+### 選項 1：提交票證
 
-從 [Experience League記錄票證以聯絡我們](https://experienceleague.adobe.com/?support-solution=General#support) ，並包括：
+在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們，並在票證中加入：
 
 * 詳細連絡資訊：姓名、電子郵件地址、電話
 * 公司名稱
@@ -47,4 +47,4 @@ source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 5 月 11 日前，您仍可繼續使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系統。5 月 11 日後，由於前述系統會終止服務，因此系統會將您重新導向至 [Admin Console](https://adminconsole.adobe.com/)。
 
 
-如需有關此電子郵件的問題，請從 [Experience League記錄票證以聯絡我們](https://experienceleague.adobe.com/?support-solution=General#support)。
+如有這封電子郵件的相關疑問，請在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們。
