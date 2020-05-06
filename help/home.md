@@ -4,17 +4,19 @@ description: 全新 Adobe 客戶支援體驗
 seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: e10515e6a7c177b5a93fda130da5517bdd374031
+source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 60%
+source-wordcount: '490'
+ht-degree: 59%
 
 ---
 
 
 # 全新 Adobe 客戶支援體驗
 
-## 我們很高興宣佈Adobe客戶支援體驗將於2020年5月11日上線！
+## 管理控制台支援票證
+
+我們很高興宣佈Adobe客戶支援體驗將於2020年5月11日上線！
 
 支援票證現在可以透過 [Admin Console提交](https://adminconsole.adobe.com/)
 
@@ -28,13 +30,16 @@ ht-degree: 60%
 
 ## 舊式系統呢？
 
-### 自5月11日起，新票證／案例將無法以合法系統提交。  Admin [Console](https://adminconsole.adobe.com/) （管理控制台）將用於提交新票證／案例。
+自5月11日起，新票證／案例將無法以合法系統提交。  Admin [Console](https://adminconsole.adobe.com/) （管理控制台）將用於提交新票證／案例。
 
-### 現有票證／案例：
+### 現有票證／案例
+
 * 在5月11日到5月20日之間，舊式系統將繼續提供，以處理現有的票證／案例。
 * 從5月20日開始，支援團隊將剩餘的未結案案例從舊系統遷移到新的支援體驗。  您將會收到電子郵件通知，告知您如何聯絡支援以繼續處理這些案例。
 
-### 案例記錄： Adobe支援人員將可查看已結案的案例記錄。  如果您需要有關已結案案例的協助，請參閱「需要說明」? 下列章節。
+### 案例歷史記錄
+
+Adobe支援人員將可查看已結案的案例記錄。  如果您需要有關已結案案例的協助，請參閱「需要說明」? 下列章節。
 
 ## 需要協助嗎？
 
@@ -53,6 +58,5 @@ ht-degree: 60%
 ### 選項 2：5 月 11 日之前
 
 5 月 11 日前，您仍可繼續使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系統。After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
-
 
 如有這封電子郵件的相關疑問，請在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們。
