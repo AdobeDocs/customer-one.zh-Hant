@@ -1,30 +1,30 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
-seo-description: 全新 Adobe Customer Support 體驗
+description: 全新 Adobe 客戶支援體驗
+seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: e10515e6a7c177b5a93fda130da5517bdd374031
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 5%
+ht-degree: 60%
 
 ---
 
 
-# 全新 Adobe Customer Support 體驗
+# 全新 Adobe 客戶支援體驗
 
 ## 我們很高興宣佈Adobe客戶支援體驗將於2020年5月11日上線！
 
 支援票證現在可以透過 [Admin Console提交](https://adminconsole.adobe.com/)
 
-如先前所分享的，我們致力於改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是使用Adobe Admin Console，將支援體驗移至單一入口點，以簡化支援體驗。 線上後，貴組織將可輕鬆存取Adobe客戶支援； 透過產品間的共同系統，更能洞悉您的服務歷史； 透過這個單一入口網站，透過電話、網路和聊天來要求協助。
+如先前所述，我們致力改善您與 Adobe 客戶支援的互動方式，目前先從 Adobe Experience Manager 和 Campaign 產品開始著手。我們的願景是透過移至單一進入點，使用 Adobe Admin Console 來簡化支援體驗。網站上線後，您的組織便可輕鬆存取 Adobe 客戶支援、透過產品間的通用系統進一步掌握服務記錄，並透過這個單一入口網站，以電話、網頁和即時聊天等方式尋求協助。
 
-## 請求的客戶操作
+## 客戶配合事項
 
-1. 檢閱Admin Console啟用內容使 [用指南](https://helpx.adobe.com/enterprise/get-started.html), [開始使用](https://helpx.adobe.com/enterprise/managing/user-guide.html) ，並瞭解如何 [建立和管理支援案例](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
-1. 登入 [Admin Console](https://adminconsole.adobe.com/) ，並驗證您擁有存取權
-1. 如果您是系統管理員，請檢閱並驗證組織內的支援使用者是否正確(這些指南頁面將協助您： [管理使用者](https://helpx.adobe.com/enterprise/using/users.html)[和管理您的團隊帳戶](https://helpx.adobe.com/enterprise/using/accounts.html))
+1. 檢閱Admin Console啟用內容使 [用指南](https://helpx.adobe.com/tw/enterprise/get-started.html), [開始使用](https://helpx.adobe.com/tw/enterprise/managing/user-guide.html) ，並瞭解如何 [建立和管理支援案例](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
+1. 登入 [Admin Console](https://adminconsole.adobe.com/) 確認是否擁有存取權
+1. 如果您是系統管理員，請查看並確認組織內的支援使用者是否正確 (建議參閱下列指南頁面：[管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[管理團隊帳戶](https://helpx.adobe.com/tw/enterprise/using/accounts.html))
 
 ## 舊式系統呢？
 
@@ -38,21 +38,21 @@ ht-degree: 5%
 
 ## 需要協助嗎？
 
-上線後，如果您遇到問題且無法登入新工具，您有下列選項：
+新網站上線後，如果您遇到任何問題而無法登入新工具，可選擇使用下列支援選項：
 
-### 選項1: 提交票證
+### 選項 1：提交票證
 
-從 [Experience League記錄票證以聯絡我們](https://experienceleague.adobe.com/?support-solution=General#support) ，並包括：
+在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們，並在票證中加入：
 
-* 聯絡資訊： 姓名、電子郵件地址、電話
+* 詳細連絡資訊：姓名、電子郵件地址、電話
 * 公司名稱
-* Adobe產品擁有
+* 擁有的 Adobe 產品
 * 問題優先順序
 * 問題的簡短說明
 
-### 選項2: 5月11日之前
+### 選項 2：5 月 11 日之前
 
-在5月11日之前，您仍可使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 個案管理系統。  在5月11日之後，系統會將您重新導向至 [Admin Console](https://adminconsole.adobe.com/) ，因為這些系統不會接受新案例。
+5 月 11 日前，您仍可繼續使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系統。After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
 
 
-如需有關此電子郵件的問題，請從 [Experience League記錄票證以聯絡我們](https://experienceleague.adobe.com/?support-solution=General#support)。
+如有這封電子郵件的相關疑問，請在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們。
