@@ -6,7 +6,7 @@ source-wordcount: '94'
 ht-degree: 12%
 
 ---
-# 移轉至 Customer One for Enterprise 的內容 (Parkour X 專案)
+# 關於移轉至 Customer One for Enterprise (Parkour X 專案) 的內容
 
 | EXL-PR | EXL | 預覽 | 啟動 | 已發佈 | 說明 |
 |--- |--- |--- |--- |--- |--- |
