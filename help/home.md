@@ -1,30 +1,30 @@
 ---
 keywords: Experience Platform支援；平台支援；智慧服務支援；customer ai支援；歸因ai支援；rtcdp支援；提交支援票證；客戶支援
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
-seo-description: 全新 Adobe Customer Support 體驗
+description: 全新 Adobe 客戶支援體驗
+seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
 workflow-type: tm+mt
 source-wordcount: '801'
-ht-degree: 3%
+ht-degree: 46%
 
 ---
 
-# 全新 Adobe Customer Support 體驗
+# 全新 Adobe 客戶支援體驗
 
-## Admin Console支援票證
+## Admin Console 支援票證
 
-很高興在此宣佈，Adobe客戶支援體驗將於2020年5月11日正式上線！
+很高興在此宣佈，Adobe 客戶支援體驗將於 2020 年 5 月 11 日正式上線！
 
-現在可以透過[Admin Console](https://adminconsole.adobe.com/)提交支援票證。 有關如何提交支援票證的說明，請查看[提交支援票證的部分](#submit-ticket)。
+現在透過 [Admin Console](https://adminconsole.adobe.com/) 就能提交支援票證.有關如何提交支援票證的說明，請查看[提交支援票證的部分](#submit-ticket)。
 
-如先前所述，我們致力改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是通過移至單一入口點，使用Adobe Admin Console來簡化支援體驗。 上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
+如先前所述，我們致力改善您與 Adobe 客戶支援的互動方式，目前先從 Adobe Experience Manager 和 Campaign 產品開始著手。我們的願景是透過移至單一進入點，使用 Adobe Admin Console 來簡化支援體驗。上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
 
 ## 如何提交Admin Console支援票證{#submit-ticket}
 
-要在[Admin Console](https://adminconsole.adobe.com/)中提交支援票證，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員可以指派此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，並且無法查看用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)檔案。
+要在[Admin Console](https://adminconsole.adobe.com/)中提交支援票證，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員可以指派此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，並且無法查看用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/tw/enterprise/using/support-and-expert-services.html)檔案。
 
 ### 指派支援管理員角色
 
@@ -58,35 +58,35 @@ ht-degree: 3%
 
 ![提交票證](./assets/submit_case.png)
 
-## 舊版系統呢？
+## 使用舊版系統怎麼辦？
 
-自5月11日起，舊版系統將無法提交新票證/案例。  [Admin Console](https://adminconsole.adobe.com/)將用於提交新票證/案例。
+自 5 月 11 日起，舊版系統將無法提交新票證/案例。若要提交新票證/案例，請改為使用 [Admin Console](https://adminconsole.adobe.com/)。
 
 ### 現有票證/案例
 
-* 5月11日至5月20日期間，舊版系統將可供處理現有票證/案例，直至完成。
-* 從5月20日開始，支援團隊會將剩餘未結案的案例從舊版系統移轉至新的支援體驗。  您會收到電子郵件通知，告知如何連絡支援人員以繼續處理這些案例。
+* 5 月 11 日至 5 月 20 日期間，舊版系統會繼續提供服務，以供處理現有票證/案例。
+* 從 5 月 20 日開始，支援團隊會將剩餘未結案的案例從舊版系統移轉到新版支援體驗。到時您會收到電子郵件通知，信中會告知您如何連絡支援人員，以繼續處理這些案例。
 
 ### 案例記錄
 
-Adobe支援人員將可查看已結案的案例記錄。  如果您需要結案案例的相關協助，請參閱需要協助嗎？ 一節。
+Adobe 支援人員將可查看已結案的案例記錄。如果您需要結案案例的相關說明，請參閱以下「需要協助嗎？」一節。
 
-## 需要幫助嗎？
+## 需要協助嗎？
 
-上線後，如果您遇到問題且無法登入新工具，可選擇使用下列選項：
+新網站上線後，如果您遇到任何問題而無法登入新工具，可選擇使用下列支援選項：
 
-### 選項1:提交票證
+### 選項 1：提交票證
 
-從[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)記錄票證以連絡我們，並包含：
+在 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證以連絡我們，並在票證中加入：
 
-* 聯繫人詳細資訊：姓名、電子郵件地址、電話
+* 詳細連絡資訊：姓名、電子郵件地址、電話
 * 公司名稱
-* Adobe產品擁有
+* 擁有的 Adobe 產品
 * 問題優先順序
 * 問題的簡短說明
 
-### 選項2:5月11日前
+### 選項 2：5 月 11 日之前
 
-在5月11日之前，您仍可以使用舊版[Campaign Extranet](https://support.neolane.net/webApp/extranetLogin)或[Experience ManagerDaycare](https://daycare.day.com/home.html)案例管理系統。  5月11日之後，系統會將您重新導向至[Admin Console](https://adminconsole.adobe.com/)，因為這些系統將無法受理新案例。
+5 月 11 日前，您仍可繼續使用舊版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系統。5 月 11 日後，這些系統將無法受理新案例，因此系統會將您重新導向至 [Admin Console](https://adminconsole.adobe.com/)。
 
-若對這封電子郵件的內容有任何疑問，請在[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)上登入票證與我們連絡。
+若對這封電子郵件的內容有任何疑問，請到 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 提交票證與我們連絡。
