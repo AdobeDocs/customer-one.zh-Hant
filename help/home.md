@@ -5,20 +5,18 @@ description: 全新 Adobe 客戶支援體驗
 seo-description: 全新 Adobe 客戶支援體驗
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 46%
+source-wordcount: '784'
+ht-degree: 43%
 
 ---
 
-# 全新 Adobe 客戶支援體驗
+# Adobe客戶支援體驗
 
 ## Admin Console 支援票證
 
-很高興在此宣佈，Adobe 客戶支援體驗將於 2020 年 5 月 11 日正式上線！
-
-現在透過 [Admin Console](https://adminconsole.adobe.com/) 就能提交支援票證.有關如何提交支援票證的說明，請查看[提交支援票證的部分](#submit-ticket)。
+現在可以透過[Admin Console](https://adminconsole.adobe.com/)提交支援票證。 有關如何提交支援票證的說明，請查看[提交支援票證的部分](#submit-ticket)。
 
 如先前所述，我們致力改善您與 Adobe 客戶支援的互動方式，目前先從 Adobe Experience Manager 和 Campaign 產品開始著手。我們的願景是透過移至單一進入點，使用 Adobe Admin Console 來簡化支援體驗。上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
 
@@ -46,7 +44,7 @@ ht-degree: 46%
 
 ![選擇問題](./assets/select-case-type.png)
 
-此時將顯示「建立案例」 **[!UICONTROL 對話框。]**&#x200B;系統會要求您提供產品、優先順序、說明等資訊，並附上任何螢幕擷取畫面，以協助說明問題。 選擇&#x200B;**[!UICONTROL Next]**&#x200B;以繼續。
+此時將顯示&#x200B;**[!UICONTROL 建立案例]**&#x200B;對話框。 系統會要求您提供產品、優先順序、說明等資訊，並附上任何螢幕擷取畫面，以協助說明問題。 選擇&#x200B;**[!UICONTROL Next]**&#x200B;以繼續。
 
 ![建立案例](./assets/create_case.png)
 
