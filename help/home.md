@@ -2,13 +2,13 @@
 keywords: Experience Platform支援；平台支援；智慧服務支援；customer ai支援；歸因ai支援；rtcdp支援；提交支援票證；客戶支援
 title: Adobe Experience Cloud Customer One for Enterprise
 description: 全新 Adobe Customer Support 體驗
-seo-description: 全新 Adobe Customer Support 體驗
+seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
+source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 3%
+source-wordcount: '611'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 如先前所述，我們致力改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是通過移至單一入口點，使用Adobe Admin Console來簡化支援體驗。 上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
 
-## 如何提交Admin Console支援票證{#submit-ticket}
+## 如何提交Admin Console支援票證 {#submit-ticket}
 
 要在[Admin Console](https://adminconsole.adobe.com/)中提交支援票證，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員可以指派此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，並且無法查看用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)檔案。
 
@@ -65,26 +65,3 @@ ht-degree: 3%
 * 5月11日至5月20日期間，舊版系統將可供處理現有票證/案例，直至完成。
 * 從5月20日開始，支援團隊會將剩餘未結案的案例從舊版系統移轉至新的支援體驗。  您會收到電子郵件通知，告知如何連絡支援人員以繼續處理這些案例。
 
-### 案例記錄
-
-Adobe支援人員將可查看已結案的案例記錄。  如果您需要結案案例的相關協助，請參閱需要協助嗎？ 一節。
-
-## 需要幫助嗎？
-
-上線後，如果您遇到問題且無法登入新工具，可選擇使用下列選項：
-
-### 選項1:提交票證
-
-從[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)記錄票證以連絡我們，並包含：
-
-* 聯繫人詳細資訊：姓名、電子郵件地址、電話
-* 公司名稱
-* Adobe產品擁有
-* 問題優先順序
-* 問題的簡短說明
-
-### 選項2:5月11日前
-
-在5月11日之前，您仍可以使用舊版[Campaign Extranet](https://support.neolane.net/webApp/extranetLogin)或[Experience ManagerDaycare](https://daycare.day.com/home.html)案例管理系統。  5月11日之後，系統會將您重新導向至[Admin Console](https://adminconsole.adobe.com/)，因為這些系統將無法受理新案例。
-
-若對這封電子郵件的內容有任何疑問，請在[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)上登入票證與我們連絡。
