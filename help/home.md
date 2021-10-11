@@ -1,28 +1,28 @@
 ---
 keywords: Experience Platform支援；平台支援；智慧服務支援；customer ai支援；歸因ai支援；rtcdp支援；提交支援票證；客戶支援
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
+description: 全新 Adobe 客戶支援體驗
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe客戶支援體驗
 
-## Admin Console支援票證
+## Admin Console 支援票證
 
 現在可以透過[Admin Console](https://adminconsole.adobe.com/)提交支援票證。 有關如何提交支援票證的說明，請查看[提交支援票證的部分](#submit-ticket)。
 
-如先前所述，我們致力改善您與Adobe客戶支援的互動方式，從Adobe Experience Manager和Campaign產品開始。 我們的願景是通過移至單一入口點，使用Adobe Admin Console來簡化支援體驗。 上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
+如先前所述，我們致力改善您與 Adobe 客戶支援的互動方式，目前先從 Adobe Experience Manager 和 Campaign 產品開始著手。我們的願景是透過移至單一進入點，使用 Adobe Admin Console 來簡化支援體驗。上線後，貴組織便能輕鬆存取Adobe客戶支援；通過跨產品的通用系統更清楚地了解您的服務歷史記錄；並透過單一入口網站，透過電話、網頁和聊天等方式尋求協助。
 
 ## 如何提交Admin Console支援票證 {#submit-ticket}
 
-要在[Admin Console](https://adminconsole.adobe.com/)中提交支援票證，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員可以指派此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，並且無法查看用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)檔案。
+要在[Admin Console](https://adminconsole.adobe.com/)中提交支援票證，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員可以指派此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，並且無法查看用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/tw/enterprise/using/support-and-expert-services.html)檔案。
 
 ### 指派支援管理員角色
 
@@ -56,12 +56,12 @@ ht-degree: 1%
 
 ![提交票證](./assets/submit_case.png)
 
-## 舊版系統呢？
+## 使用舊版系統怎麼辦？
 
-自5月11日起，舊版系統將無法提交新票證/案例。  [Admin Console](https://adminconsole.adobe.com/)將用於提交新票證/案例。
+自 5 月 11 日起，舊版系統將無法提交新票證/案例。若要提交新票證/案例，請改為使用 [Admin Console](https://adminconsole.adobe.com/)。
 
 ### 現有票證/案例
 
-* 5月11日至5月20日期間，舊版系統將可供處理現有票證/案例，直至完成。
-* 從5月20日開始，支援團隊會將剩餘未結案的案例從舊版系統移轉至新的支援體驗。  您會收到電子郵件通知，告知如何連絡支援人員以繼續處理這些案例。
+* 5 月 11 日至 5 月 20 日期間，舊版系統會繼續提供服務，以供處理現有票證/案例。
+* 從 5 月 20 日開始，支援團隊會將剩餘未結案的案例從舊版系統移轉到新版支援體驗。到時您會收到電子郵件通知，信中會告知您如何連絡支援人員，以繼續處理這些案例。
 
