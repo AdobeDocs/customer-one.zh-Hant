@@ -1,58 +1,58 @@
 ---
-keywords: Experience Platform支援；平台支援；智慧服務支援；客戶ai支援；屬性ai支援；rtcdp支援；提交支援票證；客戶支援
+keywords: Experience Platform 支援；平台支援；智慧服務支援；客戶 AI 支援；Attribution AI 支援；rtcdp 支援；提交支援票證；客戶支援
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新 Adobe Customer Support 體驗
+description: 全新 Adobe 客戶支援體驗
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: b2f78f59e8dd531f723bb488dd84a38bfd0cd10a
 workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 2%
+ht-degree: 97%
 
 ---
 
-# Adobe客戶支援體驗
+# Adobe 客戶支援體驗
 
-## Admin Console支援票證
+## Admin Console 支援票證
 
-支援票證現在可以通過 [Admin Console](https://adminconsole.adobe.com/)。 有關如何提交支援票證的說明，請查看有關 [提交支援票證](#submit-ticket)。
+現在透過 [Admin Console](https://adminconsole.adobe.com/) 就能提交支援票證。有關如何提交支援票證的說明，請參閱[提交支援票證](#submit-ticket)章節。
 
-我們正在努力改進您與Adobe客戶支援人員的互動方式。 我們的願景是通過使用Adobe Admin Console遷移到單個入口點來簡化支援體驗。 一旦投入使用，您的組織將能夠輕鬆訪問Adobe客戶支援；通過跨產品的通用系統更清楚地瞭解您的服務歷史；通過電話、網路和單個門戶聊天來尋求幫助。
+我們正在努力改進您與Adobe客戶支援人員的互動方式。 我們的願景是透過移至單一進入點，使用 Adobe Admin Console 來簡化支援體驗。網站上線後，您的組織便可輕鬆存取 Adobe 客戶支援、透過產品間的通用系統進一步掌握服務記錄，並透過這個單一入口網站，以電話、網頁和即時聊天等方式尋求協助。
 
-## 如何提交Admin Console支援票證 {#submit-ticket}
+## 如何提交 Admin Console 支援票證 {#submit-ticket}
 
-為了在 [Admin Console](https://adminconsole.adobe.com/)，需要由系統管理員分配支援管理員角色。 只有組織中的系統管理員才能分配此角色。 產品、產品配置檔案和其他管理角色無法分配支援管理員角色，因此無法查看 **[!UICONTROL 建立案例]** 用於提交支援票證的選項。 有關詳細資訊，請訪問 [企業和團隊客戶服務](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) 文檔。
+為了在 [Admin Console](https://adminconsole.adobe.com/) 提交支援票證，您需要由系統管理員指派的支援管理員角色。只有組織中的系統管理員可以指派此角色。產品、產品設定檔和其他管理角色無法指派支援管理員角色，且無法檢視用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。如需詳細資訊，請造訪[企業與團隊客戶服務](https://helpx.adobe.com/tw/enterprise/using/support-and-expert-services.html)文件。
 
-### 分配支援管理員角色
+### 指派支援管理員角色
 
-支援管理員角色是具有訪問支援相關資訊的非管理角色。 支援管理員可以查看、建立和管理問題報告。
+支援管理員角色是可存取支援相關資訊的非管理角色。支援管理員可檢視、建立及管理問題報告。
 
-要分配支援管理員角色，請遵循 [編輯企業管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) 管理角色文檔中的說明。 請注意，只有組織的系統管理員才能分配此角色。 有關管理層次結構的詳細資訊，請訪問 [管理角色](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) 文檔。
+若要指派支援管理員角色，請遵循管理角色文件中的[編輯企業管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html#add-admin-teams)說明。請注意，只有貴組織的系統管理員可以指派此角色。如需管理階層的詳細資訊，請造訪[管理角色](https://helpx.adobe.com/tw/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html)文件。
 
-### 建立支援票證，帶Admin Console
+### 使用 Admin Console 建立支援票證
 
-使用 [Admin Console](https://adminconsole.adobe.com/)，選擇 **[!UICONTROL 支援]** 頁籤。 的 [!UICONTROL 支援摘要] 的子菜單。 接下來，選擇 **[!UICONTROL 建立案例]** 的雙曲餘切值。
+如需使用 [Admin Console](https://adminconsole.adobe.com/) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**&#x200B;標籤。[!UICONTROL 支援摘要]頁面會顯示。然後，選取&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。
 
 >[!TIP]
 >
-> 如果您無法看到 **[!UICONTROL 建立案例]** 的 **[!UICONTROL 支援]** 頁籤，您需要聯繫系統管理員以分配支援管理員角色。
+> 如果您無法看到&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項或&#x200B;**[!UICONTROL 支援]**&#x200B;標籤，則需要聯絡系統管理員以指派支援管理員角色。
 
-![Admin Console支援頁籤](./assets/Support.png)
+![Admin Console 支援標籤](./assets/Support.png)
 
-此時將出現一個對話框，允許您選擇問題類型。 選擇最能描述您的問題或問題的問題類型，然後選擇 **[!UICONTROL 建立案例]** 在右下角。
+此時會顯示一個對話方塊，您可透過此方塊選取問題類型。選取最能說明問題或疑問的問題類型，然後選取右下角的&#x200B;**[!UICONTROL 建立案例]**。
 
-![選擇問題](./assets/select-case-type.png)
+![選取問題](./assets/select-case-type.png)
 
-的 **[!UICONTROL 建立案例]** 對話框。 系統要求您提供一些資訊，如產品、優先順序、說明，並附加任何螢幕截圖，以幫助描述問題。 選擇 **[!UICONTROL 下一個]** 繼續。
+**[!UICONTROL 建立案例]**&#x200B;對話方塊會顯示。系統會要求您提供產品、優先順序、說明等資訊，並附上螢幕擷取畫面，以協助說明問題。選擇&#x200B;**[!UICONTROL 下一頁]**&#x200B;以繼續。
 
 ![建立案例](./assets/create_case.png)
 
 >[!NOTE]
 >
-> 如果問題導致生產系統中斷或嚴重中斷，則會提供電話號碼以立即獲得幫助。
+> 如果此問題導致生產系統中斷或嚴重中斷，則會提供電話號碼以便於您立即獲得協助。
 
-下一頁允許您填寫聯繫資訊，並為Adobe客戶支援部門與您聯繫提供最佳時間。 完成後，選擇 **[!UICONTROL 提交]** 在右下角，您的票證將發送給Adobe客戶支援。
+您可在下一頁填寫聯絡資訊，並提供 Adobe 客戶支援與您聯絡的最佳時間。完成後，選取右下角的&#x200B;**[!UICONTROL 提交]**，以將您的票證傳送給 Adobe 客戶支援。
 
 ![提交票證](./assets/submit_case.png)
 
