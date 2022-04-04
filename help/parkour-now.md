@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 2022 年 2 月和 3 月期間，Adobe 會在此入口網站中設定新的支援系統管理員和客戶支援管理員。
 
-* 如果我們的記錄顯示您目前是擔任 Adobe Admin Console 的支援系統管理員，或在購買合約上，您的姓名列為貴組織內的 Adobe 客戶連絡人，我們便會將您設定為貴組織的&#x200B;**支援系統管理員** 。
+* 如果我們的記錄顯示您目前是擔任 Adobe Admin Console 的支援系統管理員，或在購買合約上，您的姓名列為貴組織內的 Adobe 客戶連絡人，我們便會將您設定為貴組織的&#x200B;**支援系統管理員**。
 * 如果我們的記錄顯示您過去曾請求過 Adobe 客戶支援 — 您將被設定為&#x200B;**客戶支援管理員**。
 
 支援系統管理員和客戶支援管理員將在支援使用者在 Admin Console 中建立時看到系統產生的電子郵件。這兩個使用者角色將能夠：
