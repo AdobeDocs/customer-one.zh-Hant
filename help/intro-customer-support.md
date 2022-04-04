@@ -1,13 +1,13 @@
 ---
-title: 宣佈新Adobe客戶支援體驗（上次發佈）
+title: 推出全新 Adobe 客戶支援體驗
 description: 首次向客戶介紹全新支援體驗
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
