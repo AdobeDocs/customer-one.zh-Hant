@@ -1,13 +1,13 @@
 ---
 title: 管理角色
 description: 使用Adobe Admin Console，組織可以定義靈活的管理層次結構，從而實現對Adobe產品訪問和使用的細粒度管理。
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 管理角色
 
@@ -45,7 +45,7 @@ _管理員角色層次結構_
 
 有關每個管理員角色的權限和權限的詳細清單，請參見 [權限](#enterprise-admins-permissions-matrix)。
 
-## 添加企業管理員
+## 添加企業管理員角色 {#add-enterprise-role}
 
 適用於：Adobe企業客戶。
 
