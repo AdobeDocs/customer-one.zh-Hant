@@ -3,9 +3,9 @@ title: 管理角色
 description: '使用 Adobe Admin Console，組織可以定義靈活的管理階層，從而可以細緻地管理 Adobe 產品的存取和使用。 '
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
