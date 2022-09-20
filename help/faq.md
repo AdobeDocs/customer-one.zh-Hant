@@ -5,7 +5,7 @@ description: Adobe Workfront常問的問題
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -57,7 +57,7 @@ Adobe Workfront支援團隊會透過即時協助和輔導來轉移客戶，以�
 
 +++**AAC有哪些訓練資源可用？**
 
-&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 

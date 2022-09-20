@@ -4,7 +4,7 @@ title: Adobe Workfront支援概述
 description: Adobe Workfront正加入Adobe Admin Console平台。
 source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
