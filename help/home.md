@@ -5,10 +5,10 @@ description: 全新 Adobe 客戶支援體驗
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ ht-degree: 79%
 用戶必須按一下電子郵件中的「**開始使用**」以加入組織。 如果新管理員不點擊電子郵件邀請中的&#x200B;**開始使用**&#x200B;連結，他們將無法登入 Admin Console。
 
 在登入過程中，如果使用者沒有 Adobe 設定檔，那麼系統可能會要求他們設定一個。如果使用者有多個與其電子郵件地址相關聯的設定檔，使用者必須選擇 **加入團隊** （如果提示），然後選取與新組織相關聯的設定檔。
+
+![管理員許可權確認](assets/admin-rights-confirmation.png)
+
+如需詳細資訊，請前往 [編輯企業管理員角色](admin-roles.md#add-enterprise-role) 管理角色檔案中的指示。 請注意，只有貴組織的系統管理員可以指派此角色。如需管理階層的詳細資訊，請造訪[管理角色](admin-roles.md)文件。
 
 ### 使用 Admin Console 建立支援票證
 
