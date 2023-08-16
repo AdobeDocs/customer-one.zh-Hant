@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,22 +48,22 @@ ht-degree: 91%
 
 1. 選擇下列兩個選項之一：
 
-   * 選項 1：**[!UICONTROL 基本支援管理員]**。如果您要為使用者提供所有解決方案(Marketo Engage除外)的支援存取權，請選取此選項。
-   * 選項2： **[!UICONTROL 產品支援管理員]**：選取此選項以取得Marketo Engage支援。 選取要授與使用者支援存取權的Marketo Engage執行個體。
+   * 選項 1：**[!UICONTROL 基本支援管理員]**。如果您要為使用者提供所有解決方案（Marketo Engage 除外）的支援存取權，請選取此選項。
+   * 選項 2：**[!UICONTROL 產品支援管理員]**：選取此選項以取得 Marketo Engage 支援。選取要授與使用者支援存取權的 Marketo Engage 執行個體。
 
    ![編輯 Marketo 管理員權限](assets/edit-admin-rights-advanced.png)
 
 1. 選取之後，按一下&#x200B;**[!UICONTROL 儲存]**。
 
-使用者從 `message@adobe.com` 接收有關新管理權限的電子郵件邀請。
+使用者從 `message@adobe.com`接收有關新管理權限的電子郵件邀請。
 
 用戶必須按一下電子郵件中的「**開始使用**」以加入組織。如果新管理員不點擊電子郵件邀請中的&#x200B;**開始使用**&#x200B;連結，他們將無法登入 Admin Console。
 
 在登入過程中，如果使用者沒有 Adobe 設定檔，那麼系統可能會要求他們設定一個。如果使用者具有多個與其電子郵件地址關聯的設定檔，那麼使用者必須選擇「加入團隊」（如果出現提示），然後選取與新組織關聯的設定檔。****
 
-![管理員許可權確認](assets/admin-rights-confirmation.png)
+![管理員權限確認](assets/admin-rights-confirmation.png)
 
-如需詳細資訊，請前往 [編輯企業管理員角色](admin-roles.md#add-enterprise-role) 管理角色檔案中的指示。 請注意，只有貴組織的系統管理員可以指派此角色。如需管理階層的詳細資訊，請造訪[管理角色](admin-roles.md)文件。
+如需詳細資訊，請按照管理角色文件中的[編輯企業管理員角色](admin-roles.md#add-enterprise-role)指示操作。請注意，只有貴組織的系統管理員可以指派此角色。如需管理階層的詳細資訊，請造訪[管理角色](admin-roles.md)文件。
 
 ### 使用 Admin Console 建立支援票證
 
