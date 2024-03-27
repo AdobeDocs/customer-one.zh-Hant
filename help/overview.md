@@ -2,9 +2,10 @@
 keywords: Workfront 支援；提交支援票證；客戶支援
 title: Adobe Workfront 支援概述
 description: Adobe Workfront 正在加入 Adobe Admin Console 平台。
-source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
+exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
+source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
 workflow-type: ht
-source-wordcount: '238'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---

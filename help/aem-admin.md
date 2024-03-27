@@ -1,12 +1,11 @@
 ---
 title: AEM - 即將推出全新支援體驗
-seo-title: Adobe Experience Manager - 即將推出全新支援體驗
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: Adobe Experience Manager - 即將推出全新支援體驗
-seo-description: Adobe Experience Manager - 即將推出全新支援體驗
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -34,11 +33,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->請&#x200B;**在 2019 年 11 月 4 日前填寫並提交[[!DNL 系統管理員確認表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**，確認您接受此角色 (或提供替代聯絡人)，擔任貴組織的 Adobe Experience Manager 產品系統管理員。
+>請務必&#x200B;**在 2019 年 11 月 4 日前填妥並提交 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**，確認擔任貴組織 Adobe Experience Manager 產品系統管理員的角色（或提供其他連絡人資料）。
 >
 >填妥此表格，即可確保將適當認證指派給貴組織的指定系統管理員。
 
-我們會在收到 [[!DNL 系統管理員確認表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 時，傳送電子郵件確認信。
+我們會在收到 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 時，傳送電子郵件確認信。
 
 如有這封電子郵件的相關疑問，請聯絡我們：customercare@adobe.com。
 

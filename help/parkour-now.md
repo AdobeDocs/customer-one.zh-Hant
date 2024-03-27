@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: ht
-source-wordcount: '453'
+source-wordcount: '450'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 支援系統管理員和客戶支援管理員將在支援使用者在 Admin Console 中建立時看到系統產生的電子郵件。這兩個使用者角色將能夠：
 
 * 透過 Adobe 客戶支援，並運用案例管理工具，更輕鬆地處理支援案例
-* 與 Adobe 客戶支援開始對話，輕鬆便利適用於 Adobe Analytics
+* 方便地與 Adobe 客戶支援開啟聊天對話，以解決 Adobe Analytics 相關問題
 * 更清楚地瞭解您的服務歷程記錄
 * 瀏覽常用的說明主題和論壇。
 
