@@ -6,10 +6,10 @@ feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] 說明"
-source-git-commit: 6113bc8b5d371bd3c4169f408d097ef53ccc329d
-workflow-type: ht
-source-wordcount: '20'
-ht-degree: 100%
+source-git-commit: 30dcead5c4ee72d6f17a3779a1777ca8edbd7ad2
+workflow-type: tm+mt
+source-wordcount: '24'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [簡介](home.md)
++ [支援電話號碼更新](phone-numbers.md)
 + [管理員角色](admin-roles.md)
 + [聯繫 Adobe 客戶服務](customer-care.md)
 + 參考文件 {#ref-docs}
