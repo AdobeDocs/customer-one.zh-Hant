@@ -3,7 +3,7 @@ title: 聯繫 Adobe 客戶服務
 description: 有關團隊、企業和 Experience Cloud 客戶聯繫 Adobe 客戶服務的資訊。
 exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
 source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 

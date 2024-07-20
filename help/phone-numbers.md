@@ -3,7 +3,7 @@ title: 指定偏好的支援電話號碼
 description: 更新 Adobe 支援電話號碼。指定您偏好的支援電話號碼。
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
