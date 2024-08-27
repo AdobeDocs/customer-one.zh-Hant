@@ -4,7 +4,7 @@ title: Adobe Workfront 支援概述
 description: Adobe Workfront 正在加入 Adobe Admin Console 平台。
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
 ht-degree: 100%
 

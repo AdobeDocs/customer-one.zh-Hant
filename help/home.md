@@ -6,27 +6,27 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Adobe 客戶支援體驗
 
-## Experience League支援票證
+## Experience League 支援票證
 
-現已透過[Experience League](https://experienceleague.adobe.com/home#support)提交支援票證。 有關如何提交支援票證的說明，請參閱[提交支援票證](#submit-ticket)章節。
+支援票證現在透過 [Experience League](https://experienceleague.adobe.com/home#support) 提交。有關如何提交支援票證的說明，請參閱[提交支援票證](#submit-ticket)章節。
 
-我們正努力改進您與 Adobe 客戶支援人員的互動方式。我們的願景是使用Experience League，透過移至單一入口點，簡化支援體驗。 網站上線後，您的組織便可輕鬆存取 Adobe 客戶支援、透過產品間的通用系統進一步掌握服務記錄，並透過這個單一入口網站，以電話、網頁和即時聊天等方式尋求協助。
+我們正努力改進您與 Adobe 客戶支援人員的互動方式。我們的願景是透過移至單一進入點，使用 Experience League 來簡化支援體驗。網站上線後，您的組織便可輕鬆存取 Adobe 客戶支援、透過產品間的通用系統進一步掌握服務記錄，並透過這個單一入口網站，以電話、網頁和即時聊天等方式尋求協助。
 
-如果您是Adobe Commerce使用者，請參閱Adobe CommerceExperience League支援使用指南中的[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+如果您是 Adobe Commerce 使用者，請參閱《適用於 Adobe Commerce 的 Experience League 支援使用者指南》中的「[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)」。
 
-## 案例提交所需的支援授權角色 {#submit-ticket}
+## 提交案例所需的支援授權角色 {#submit-ticket}
 
-若要在[Experience League](https://experienceleague.adobe.com/home#support)中提交支援票證，您需要系統管理員指派支援管理員角色。 只有組織中的系統管理員可以指派此角色。產品、產品設定檔和其他管理角色無法指派支援管理員角色，且無法檢視用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。若要深入瞭解不同型別的管理員角色及其權益，請參閱[管理員角色](admin-roles.md)。
+為了在 [Experience League](https://experienceleague.adobe.com/home#support) 中提交支援票證，您需要由系統管理員指派的支援管理員角色。只有組織中的系統管理員可以指派此角色。產品、產品設定檔和其他管理角色無法指派支援管理員角色，且無法檢視用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。如需深入瞭解不同類型的管理員角色及其權利，請參閱「[管理員角色](admin-roles.md)」。
 
-如果您使用Commerce，共用存取許可權以處理支援案例的流程會不同。 若要瞭解更多資訊，請參閱Adobe CommerceExperience League支援使用手冊中的[共用存取權：授予其他使用者存取您帳戶的許可權](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
+如果您使用 Commerce，則共用存取權以處理支援案例的流程有所不同。如需瞭解更多資訊，請參閱《適用於 Adobe Commerce 的 Experience League 支援使用者指南》中的「[共用存取權：授予其他使用者存取您帳戶的權限](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」。
 
 ### 新增支援可讓角色擁有組織許可權
 
@@ -69,23 +69,23 @@ ht-degree: 56%
 
 如需詳細資訊，請按照管理角色文件中的[編輯企業管理員角色](admin-roles.md#add-enterprise-role)指示操作。請注意，只有貴組織的系統管理員可以指派此角色。如需管理階層的詳細資訊，請造訪[管理角色](admin-roles.md)文件。
 
-### 使用Experience League建立支援票證
+### 使用 Experience League 建立支援票證
 
-提交支援案例的程式現在直接與Experience League支援平台整合。 這是自助式入口網站，最近經過重新設計，提供更個人化且易於使用的權利客戶。
+提交支援案例的流程現在直接與 Experience League 支援平台整合。這是一個自助服務入口，最近經過重新設計，為有權限的客戶提供了更多個人化資訊，並且更易於使用。
 
-1. 若要使用[Experience League](https://experienceleague.adobe.com/home#support)建立票證，請選取位於頂端導覽列中的&#x200B;**[!UICONTROL 支援]**索引標籤。
-   ![Experience League支援標籤](./assets/experience-league-support-tab.png)
-1. 從支援首頁，您可以輕鬆導覽至未解決的支援案例、記錄新案例、檢視熱門支援文章或存取其他學習來源。
-   ![Experience League支援資源](./assets/experience-league-support-resources.png)
-1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開啟支援票證]**。 同時選取側邊欄功能表上的&#x200B;**[!UICONTROL 開啟票證]**選項。 您將被導向案例建立頁面，您可以在其中輸入您的產品名稱(Audience Manager、行銷活動、目標等)、案例標題和案例說明。 若要加快疑難排解程式，請在描述您面臨的問題時儘可能提供說明。
-   ![Experience League開啟票證](./assets/experience-league-open-ticket.png)
-1. 在表單結束時，請填寫下列欄位。 選取任何解決方案時，系統會詢問您下列內容，有些解決方案會有其他欄位：
+1. 如需使用 [Experience League](https://experienceleague.adobe.com/home#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**標籤。
+   ![Experience League 支援標籤](./assets/experience-league-support-tab.png)
+1. 從支援首頁，您可以輕鬆導覽至未結支援案例、記錄新案例、檢視熱門支援文章，或存取其他學習資源。
+   ![Experience League 支援資源](./assets/experience-league-support-resources.png)
+1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開立支援票證]**。也可以選取側邊欄功能表上的&#x200B;**[!UICONTROL 開立票證]**選項。您將被引導至案例建立頁面，您可以在其中輸入您的產品名稱（Audience Manager、Campaign、Target 等）、案例標題以及案例說明。為加快疑難排解過程，請在描述您面臨的問題時盡可能詳細。
+   ![Experience League 開立票證](./assets/experience-league-open-ticket.png)
+1. 在表單末尾，請填寫下列欄位。選取任何解決方案時，系統會詢問您下列內容，有些解決方案會有其他欄位：
 
-   * 案例優先順序(低、Medium、高、嚴重)
-   * 企業影響
-   * 客戶時區（美洲、EMEA、APAC）
+   * 案例優先級（低、中、高、嚴重）
+   * 業務影響
+   * 客戶時區（美洲；歐洲、中東及非洲地區；亞太地區）
 
-![Experience League票證優先順序](./assets/experience-league-ticket-priority.png)
+![Experience League 票證優先級](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
@@ -100,7 +100,7 @@ ht-degree: 56%
 
 >[!NOTE]
 >
-> 如果問題導致生產系統中斷或嚴重中斷，則會提供電話號碼以立即獲得協助。
+> 如果此問題導致生產系統中斷或嚴重中斷，則會提供電話號碼以便於您立即獲得協助。
 
 
 

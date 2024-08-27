@@ -5,18 +5,18 @@ feature-set: Experience Cloud
 feature: Support
 sub-product: customer one
 audience: end-user
-user-guide-title: "[!DNL Customer One for Enterprise] 說明"
+user-guide-title: 「[!DNL Customer One for Enterprise] 說明」
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '23'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Customer One for Enterprise] {#using}
 
-+ [Experience League支援入口網站](home.md)
++ [Experience League 支援入口](home.md)
 + [支援電話號碼更新](phone-numbers.md)
 + [管理員角色](admin-roles.md)
 + 參考文件 {#ref-docs}
