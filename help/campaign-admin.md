@@ -1,12 +1,12 @@
 ---
-title: "[!DNL Campaign] - 敬請期待全新支援體驗"
+title: '[!DNL Campaign] — 新的支援體驗即將推出'
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - 即將推出全新企業支援體驗
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
