@@ -25,7 +25,7 @@ Adobe Workfront 正在加入 Adobe Admin Console 平台。
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=zh-Hant
 -->
 
 此外，[這裡](faq.md)提供常見問題集以供參考。
