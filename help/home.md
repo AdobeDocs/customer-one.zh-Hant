@@ -77,7 +77,7 @@ ht-degree: 87%
 
 提交支援案例的流程現在直接與 Experience League 支援平台整合。 這是一個自助服務入口，最近經過重新設計，為有權限的客戶提供了更多個人化資訊，並且更易於使用。
 
-1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**標籤。
+1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**&#x200B;標籤。
    ![Experience League 支援標籤](./assets/experience-league-support-tab.png)
 1. 從支援首頁，您可以輕鬆導覽至未結支援案例、記錄新案例、檢視熱門支援文章，或存取其他學習資源。
    ![Experience League 支援資源](./assets/experience-league-support-resources.png)
