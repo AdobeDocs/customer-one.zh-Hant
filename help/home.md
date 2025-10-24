@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,34 +73,34 @@ ht-degree: 87%
 
 >[!NOTE]
 >
-> 在提交支援票證之前，請考慮檢查[Adobe狀態](https://status.adobe.com)網站上的Adobe系統效能、使用狀態和解決方案問題。
+> 在提交支援票證之前，請考慮檢查 [Adobe 狀態](https://status.adobe.com/zh-tw)網站上的 Adobe 系統效能、可用性和解決方案問題。
 
 提交支援案例的流程現在直接與 Experience League 支援平台整合。 這是一個自助服務入口，最近經過重新設計，為有權限的客戶提供了更多個人化資訊，並且更易於使用。
 
-1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**&#x200B;標籤。
+1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**標籤。
    ![Experience League 支援標籤](./assets/experience-league-support-tab.png)
 1. 從支援首頁，您可以輕鬆導覽至未結支援案例、記錄新案例、檢視熱門支援文章，或存取其他學習資源。
    ![Experience League 支援資源](./assets/experience-league-support-resources.png)
-1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開立支援票證]**。 同時選取側邊欄功能表上的&#x200B;**[!UICONTROL 開啟票證]**&#x200B;選項。
+1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開立支援票證]**。 也可以選取側邊欄選單上的&#x200B;**[!UICONTROL 開立工單]**&#x200B;選項。
 
 
-### 填寫支援票證
+### 填寫支援工單
 
-1. 選取&#x200B;**[!UICONTROL 開啟支援票證]**&#x200B;後，您將會導向至案例建立頁面，您可在此輸入產品名稱(Audience Manager、Campaign、Target等)、**[!UICONTROL 案例標題]**&#x200B;和&#x200B;**[!UICONTROL 案例說明]**。
+1. 選取&#x200B;**[!UICONTROL 開立支援工單]**&#x200B;後，系統將引導您前往案例建立頁面，您可以在其中輸入您的產品名稱 (Audience Manager、Campaign、Target 等)、**[!UICONTROL 案例標題]**&#x200B;以及&#x200B;**[!UICONTROL 案例描述]**。
 
-   ![Experience League 開立票證](./assets/experience-league-open-ticket.png)
+   ![Experience League 開立工單](./assets/experience-league-open-ticket.png)
 
-   若要加快疑難排解程式，請在&#x200B;**[!UICONTROL 案例描述]**&#x200B;欄位中新增下列資訊：
+   若要加快疑難排解流程，請在&#x200B;**[!UICONTROL 案例描述]**&#x200B;欄位中新增下列資訊：
 
-   * 清除問題陳述
-   * 重現問題的步驟
-   * 業務影響宣告
+   * 清楚的問題陳述
+   * 需要重現的步驟
+   * 業務影響陳述
    * 這是新的實施/功能/開發嗎？
-   * 程式何時運作？
-   * 疑難排解步驟
-   * 相關記錄檔資料
+   * 流程何時運作？
+   * 採取的疑難排解步驟
+   * 相關記錄資料
    * 版本號碼
-   * 建置資訊（如果相關）
+   * 建置資訊 (如果相關)
    * 關鍵識別碼
 
 
