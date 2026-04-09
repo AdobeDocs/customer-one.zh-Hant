@@ -4,16 +4,16 @@ description: 向客戶介紹全新支援體驗
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
 
 # 全新 Adobe 客戶支援體驗
 
-我們相當重視客戶，致力於讓客戶在需要協助時，能更輕鬆地向 Adobe 客戶支援人員尋求協助。Adobe 正在透過單一支援入口網站 Adobe Admin Console 來簡化體驗，從而增強您為 Adobe Analytics、Target 和 Audience Manager 獲得客戶支援的方式。此轉換將有助於您更清楚地瞭解您的服務歷程記錄，並允許您透過電話、Web 和通用平台進行聊天來請求支援。這些變更計劃將於 2022 年 4 月進行。
+我們相當重視客戶，致力於讓客戶在需要協助時，能更輕鬆地向 Adobe 客戶支援人員尋求協助。 Adobe 正在透過單一支援入口網站 Adobe Admin Console 來簡化體驗，從而增強您為 Adobe Analytics、Target 和 Audience Manager 獲得客戶支援的方式。 此轉換將有助於您更清楚地瞭解您的服務歷程記錄，並允許您透過電話、Web 和通用平台進行聊天來請求支援。 這些變更計劃將於 2022 年 4 月進行。
 
 隨著時間更接近推出日期，我們會繼續向您的組織提供更多資訊。
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 如果我們的記錄顯示您目前是擔任 Adobe Admin Console 的支援系統管理員，或在購買合約上，您的姓名列為貴組織內的 Adobe 客戶連絡人，我們便會將您設定為貴組織的&#x200B;**支援系統管理員**。
 * 如果我們的記錄顯示您過去曾請求過 Adobe 客戶支援 — 您將被設定為&#x200B;**客戶支援管理員**。
 
-支援系統管理員和客戶支援管理員將在支援使用者在 Admin Console 中建立時看到系統產生的電子郵件。這兩個使用者角色將能夠：
+支援系統管理員和客戶支援管理員將在支援使用者在 Admin Console 中建立時看到系統產生的電子郵件。 這兩個使用者角色將能夠：
 
 * 透過 Adobe 客戶支援，並運用案例管理工具，更輕鬆地處理支援案例
 * 方便地與 Adobe 客戶支援開啟聊天對話，以解決 Adobe Analytics 相關問題
@@ -34,7 +34,7 @@ ht-degree: 100%
 此外，支援系統管理員將能夠：
 
 * 在入口網站中建立/移除支援使用者及管理存取角色
-* 檢查並驗證組織內的支援使用者是否準確。（有關說明，請參閱：[管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[管理團隊帳戶](https://helpx.adobe.com/tw/enterprise/using/accounts.html)。）
+* 檢查並驗證組織內的支援使用者是否準確。 （有關說明，請參閱：[管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[管理團隊帳戶](https://helpx.adobe.com/tw/enterprise/using/accounts.html)。）
 
 ## 敬請期待
 
