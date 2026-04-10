@@ -6,10 +6,10 @@ feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] 說明'
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
+source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
 workflow-type: tm+mt
 source-wordcount: '23'
-ht-degree: 100%
+ht-degree: 60%
 
 ---
 
@@ -19,12 +19,10 @@ ht-degree: 100%
 + [Experience League 支援入口](home.md)
 + [支援電話號碼更新](phone-numbers.md)
 + [管理員角色](admin-roles.md)
-+ 參考文件 {#ref-docs}
-   + [事前公告](intro-customer-support.md)
-   + [Parkour Now 公告](parkour-now.md)
-+ Workfront 文件 {#workfront}
-   + [概覽](overview.md)
++ 參考檔案 {#ref-docs}
+   + {hide-from-toc}[先前宣告](intro-customer-support.md)
+   + {hide-from-toc}[Parkour Now Announcement](parkour-now.md)
++ Workfront檔案 {#workfront}
+   + [概觀](overview.md)
    + [登陸](landing.md)
    + [常見問題集](faq.md)
-
-
