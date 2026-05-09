@@ -1,20 +1,21 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 type: Documentation
-git-repo: https://github.com/AdobeDocs/customer-one.zh-Hant
+git-repo: https://github.com/AdobeDocs/customer-one.en
 hide: true
-source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
+source-git-commit: b43773cf282854831f1ac616260fb529a3758d7e
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: 125
+ht-degree: 31%
 
 ---
 
 
-# 內部使用的中繼資料
+# 內部專用中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將以上資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 若您想針對任何使用者指南，變更 metadata.md 的內容，請開啟任何 TOC.md 檔案，就能變更資料。
 
 | 中繼資料 | 作用 |
 |--- |--- |
