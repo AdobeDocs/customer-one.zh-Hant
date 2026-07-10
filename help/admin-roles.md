@@ -3,18 +3,11 @@ title: 管理角色
 description: 使用 Adobe Admin Console，組織可以定義靈活的管理階層，從而可以細緻地管理 Adobe 產品的存取和使用。
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
-  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -39,7 +32,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->管理階層不適用於團隊客戶。 團隊客戶有一個&#x200B;**系統管理員**&#x200B;角色。 合約所有者（_舊稱為&#x200B;**主要管理員**&#x200B;_）是可以存取合約詳情和帳單歷史記錄的系統管理員。 如果您是當前的合約所有者，則可以指定現有系統管理員（_&#x200B;舊稱為 **輔助管理員**&#x200B;_）作為合約所有者。
+>管理階層不適用於團隊客戶。 團隊客戶有一個&#x200B;**系統管理員**&#x200B;角色。 合約所有者（_舊稱為&#x200B;**主要管理員**_）是可以存取合約詳情和帳單歷史記錄的系統管理員。 如果您是當前的合約所有者，則可以指定現有系統管理員（_&#x200B;舊稱為 **輔助管理員**_）作為合約所有者。
 
 ![管理員影像](assets/storage_admin.png)
 
@@ -121,8 +114,7 @@ _管理員角色階層_
 
 ![團隊管理員圖像](assets/teams-admin.png)
 
-由於團隊組織中的所有使用者都是企業 ID 使用者，因此他們會收到一封來自 `message@adobe.com` 的電子郵件邀請，內容涉及新管理權限。
-用戶必須按一下電子郵件中的「開始使用」以加入組織。
+由於團隊組織中的所有使用者都是企業 ID 使用者，因此他們會收到一封來自 `message@adobe.com` 的電子郵件邀請，內容涉及新管理權限。用戶必須按一下電子郵件中的「開始使用」以加入組織。
 
 在登入過程中，如果使用者沒有 Adobe 設定檔，那麼系統可能會要求他們設定一個。 如果使用者具有多個與其電子郵件地址關聯的設定檔，那麼使用者必須選擇「加入團隊」（如果出現提示），然後選取與新組織關聯的設定檔。
 
@@ -271,3 +263,4 @@ _管理員角色階層_
 | 從產品許可中移除使用者群組 | ✔ | |
 | 查看使用者群組的成員 | ✔ | ✔ |
 | 查看使用者群組清單 | ✔ | ✔ |
+

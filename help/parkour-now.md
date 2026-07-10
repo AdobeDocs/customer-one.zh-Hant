@@ -4,9 +4,8 @@ description: 向客戶介紹全新支援體驗
 hide: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 459
 ht-degree: 100%
@@ -58,3 +57,4 @@ ht-degree: 100%
 
 * Adobe 在 Adobe Admin Console 入口網站上啟動對這些產品的支援
 * 客戶可以開始使用入口網站系統連接 Adobe Analytics、Target 和 Audience Manager 的 Adobe 客戶支援
+
