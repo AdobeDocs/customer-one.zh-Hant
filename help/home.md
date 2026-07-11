@@ -5,9 +5,9 @@ description: 全新 Adobe 客戶支援體驗
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: ht
-source-wordcount: '942'
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+workflow-type: tm+mt
+source-wordcount: '1006'
 ht-degree: 100%
 
 ---
@@ -77,10 +77,14 @@ ht-degree: 100%
 
 提交支援案例的流程現在直接與 Experience League 支援平台整合。 這是一個自助服務入口，最近經過重新設計，為有權限的客戶提供了更多個人化資訊，並且更易於使用。
 
-1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**標籤。
+1. 如需使用 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hant#support) 建立票證，請選取頂部導覽中的&#x200B;**[!UICONTROL 支援]**&#x200B;標籤。
+
    ![Experience League 支援標籤](./assets/experience-league-support-tab.png)
+
 1. 從支援首頁，您可以輕鬆導覽至未結支援案例、記錄新案例、檢視熱門支援文章，或存取其他學習資源。
+
    ![Experience League 支援資源](./assets/experience-league-support-resources.png)
+
 1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開立支援票證]**。 也可以選取側邊欄選單上的&#x200B;**[!UICONTROL 開立工單]**&#x200B;選項。
 
 
@@ -112,16 +116,11 @@ ht-degree: 100%
 
    如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱成功計劃資源文件中的[支援的目標初始回應時間](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
-![Experience League 票證優先級](./assets/experience-league-ticket-priority.png)
+   ![Experience League 票證優先級](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > 如果您無法看到&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項或&#x200B;**[!UICONTROL 支援]**&#x200B;標籤，則需要聯絡系統管理員以指派支援管理員角色。
-
-
-
-
-
 
 
 

@@ -6,10 +6,10 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +19,7 @@ ht-degree: 85%
 
 ## 更多資訊
 
-2 月至 3 月期間，Adobe 會在此入口網站中設定新的支援系統管理員和支援使用者。 如果您的記錄顯示您目前是Adobe Admin Console的支援系統管理員，或者，您的名稱在購買合約中被列為Adobe在組織內部署Adobe Campaign和/或Adobe Experience Manager的客戶聯絡人，則您將被設定為組織的支援系統管理員。
-支援系統管理員會擔任 Admin Console 的超級使用者，每當建立新支援使用者時，都會收到系統寄送的電子郵件。 此外，支援系統管理員還擁有以下權限：
+2 月至 3 月期間，Adobe 會在此入口網站中設定新的支援系統管理員和支援使用者。 如果您的記錄顯示您目前是Adobe Admin Console的支援系統管理員，或者，您的名稱在購買合約中被列為Adobe在組織內部署Adobe Campaign和/或Adobe Experience Manager的客戶聯絡人，則您將被設定為組織的支援系統管理員。支援系統管理員會擔任 Admin Console 的超級使用者，每當建立新支援使用者時，都會收到系統寄送的電子郵件。 此外，支援系統管理員還擁有以下權限：
 
 * 在入口網站中建立/移除支援使用者及管理存取角色
 * 透過 Adobe 客戶支援，並運用案例管理工具，更輕鬆地處理支援案例
@@ -49,3 +48,4 @@ ht-degree: 85%
 * 客戶開始使用新系統
 
 若對這封電子郵件的內容還有相關問題，請連絡我們：[customercare@adobe.com](mailto:customercare@adobe.com)。
+
