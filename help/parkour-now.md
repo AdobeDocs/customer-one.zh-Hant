@@ -6,13 +6,12 @@ exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 459
+source-wordcount: '459'
 ht-degree: 100%
-
 ---
-
 # 全新 Adobe 客戶支援體驗
 
 我們相當重視客戶，致力於讓客戶在需要協助時，能更輕鬆地向 Adobe 客戶支援人員尋求協助。 Adobe 正在透過單一支援入口網站 Adobe Admin Console 來簡化體驗，從而增強您為 Adobe Analytics、Target 和 Audience Manager 獲得客戶支援的方式。 此轉換將有助於您更清楚地瞭解您的服務歷程記錄，並允許您透過電話、Web 和通用平台進行聊天來請求支援。 這些變更計劃將於 2022 年 4 月進行。
